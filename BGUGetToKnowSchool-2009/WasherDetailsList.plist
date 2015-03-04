@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Washer1</key>
+	<dict>
+		<key>Name</key>
+		<string>אופרת סבון</string>
+		<key>Address</key>
+		<string>אוסישקין 8 באר שבע</string>
+		<key>Loaction</key>
+		<string>Ussishkin 8, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6209616</string>
+	</dict>
+	<key>Washer2</key>
+	<dict>
+		<key>Name</key>
+		<string>בועות שירותי כביסה</string>
+		<key>Address</key>
+		<string>ביאליק 5 באר שבע</string>
+		<key>Loaction</key>
+		<string>Haim Nahman Bialik 5, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6496037</string>
+	</dict>
+	<key>Washer3</key>
+	<dict>
+		<key>Name</key>
+		<string>מכבסת מיקי</string>
+		<key>Address</key>
+		<string>גמל 1 באר שבע</string>
+		<key>Loaction</key>
+		<string>Gamal 1, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6410860</string>
+	</dict>
+	<key>Washer4</key>
+	<dict>
+		<key>Name</key>
+		<string>מכבסת קלינכול בע&quot;מ</string>
+		<key>Address</key>
+		<string>השלום 54 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech HaShalom 54, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6284580</string>
+	</dict>
+	<key>Washer5</key>
+	<dict>
+		<key>Name</key>
+		<string>מכבסת קל-נקי</string>
+		<key>Address</key>
+		<string>בן ממתיהו 4 באר שבע</string>
+		<key>Loaction</key>
+		<string>Yosef Ben Matityahu 4, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6655946</string>
+	</dict>
+	<key>Washer6</key>
+	<dict>
+		<key>Name</key>
+		<string>מעונות ליד מרכז הספורט</string>
+		<key>Address</key>
+		<string>צומת שדרות בן גוריון ורחוב ארלוזרוב</string>
+		<key>Loaction</key>
+		<string>Students Dormitories, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>לא קיים</string>
+	</dict>
+</dict>
+</plist>

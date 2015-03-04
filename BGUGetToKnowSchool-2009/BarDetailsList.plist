@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bar1</key>
+	<dict>
+		<key>Name</key>
+		<string>ברקה</string>
+		<key>Address</key>
+		<string>שלושת בני עין חרוד 70, באר שבע</string>
+		<key>Loaction</key>
+		<string>Shloshet Bnei Ein Harod 70, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6287111</string>
+		<key>Discription</key>
+		<string>מועדון הברקה נפתח בתור פאב לכל דבר ומשני צדדיו של שביל האבנים הלבנות היו שולחנות.  בערב יום שישי אחד, לאחר שנתיים, האנשים שבילו בפאב כניראה שתו יותר מדי ולפני שמישהו הבחין בכך, הזיזו את השולחנות מהרחבה והתחילו לרקוד, וכך על פי דרישת הקהל, נולד לו הדאנס בר הראשון בבאר שבע</string>
+	</dict>
+	<key>Bar2</key>
+	<dict>
+		<key>Name</key>
+		<string>מנצילה</string>
+		<key>Address</key>
+		<string>ארלוזורוב 50, באר שבע</string>
+		<key>Loaction</key>
+		<string>Arlozorov 50, Beersheba, Israel
+Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>052-2626266</string>
+		<key>Discription</key>
+		<string>מנצ&apos;ילה הוא שאנטי בר באווירת זולה, המגיש ללקוחותיו נרגילות במגוון טעמים. הקהל במקום הוא בעיקר בני נוער וחיילים.</string>
+	</dict>
+	<key>Bar3</key>
+	<dict>
+		<key>Name</key>
+		<string>קוקה</string>
+		<key>Address</key>
+		<string>ארלוזורוב 50, באר שבע</string>
+		<key>Loaction</key>
+		<string>Arlozorov 50, Beersheba, Israel
+Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>077-7103106</string>
+		<key>Discription</key>
+		<string>פאב הקוקה הוא רוק בר שכונתי שממוקם סמוך למעונות הסטודנטים בשכונה ג&apos;. בקוקה ישנה במה שמארחת מדי פעם אמנים והרכבים מהארץ. בנוסףמציע המקום מבשלת בירה שמספקת לקהל מבליה בירה תוצרת הבית</string>
+	</dict>
+	<key>Bar4</key>
+	<dict>
+		<key>Name</key>
+		<string>איינשטיין</string>
+		<key>Address</key>
+		<string>שד‘ בן גוריון 2 מרכז הספורט</string>
+		<key>Loaction</key>
+		<string>Sderot David Ben Gurion 2, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>052-5000822</string>
+		<key>Discription</key>
+		<string>מגה-פיקאפ-בר-סטודנטיאלי. הבר הבאר שבעי משדר משדר סליזיות ופוזה תל אביבית. המקום פתוח כל יום ומומלץ מאוד להקדים. האיינשטיין מציג כיום את אופציית הבילוי החמה ביותר עבור הקהל הסטודנטיאלי</string>
+	</dict>
+	<key>Bar5</key>
+	<dict>
+		<key>Name</key>
+		<string>מנגה</string>
+		<key>Address</key>
+		<string>שדרות רגר 87, מרכז המורים,באר שבע</string>
+		<key>Loaction</key>
+		<string>Yitshak Rager 87, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>08-6499951, 050-8833170</string>
+		<key>Discription</key>
+		<string>מנגה הוא פיק אפ בר בבאר שבע המיועד לקהל הסטודנטים, המציע בר פנימי ובר תחת כיפת השמיים, אלכוהול איכותי במחירים נוחים ותפריט אוכל מגוון</string>
+	</dict>
+	<key>Bar6</key>
+	<dict>
+		<key>Name</key>
+		<string>רוזה</string>
+		<key>Address</key>
+		<string>דרך מצדה 6, כניסה 2,באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech Metsada 6, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>050-9040101</string>
+		<key>Discription</key>
+		<string>רוזה בר מתפצל לשני מתחמים ולשני ברים, כשהמתחם הגדול הוא הפנימי והמתחם הקטן הוא החיצוני וממוקם על מרפסת גדולה. סביב הבר המרכזי כסאות עור מדוגמים וצפופים, וכן מציע המקום גם שתי זולות שמתאימות לקבוצות גדולות. הקהל במקום הוא ברובו סטודנטים</string>
+	</dict>
+	<key>Bar7</key>
+	<dict>
+		<key>Name</key>
+		<string>דראפט</string>
+		<key>Address</key>
+		<string>דרך חברון 21, מרכז ביג,באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech Hevron 21, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>052-3122120, 052-5555547</string>
+		<key>Discription</key>
+		<string>דראפט הוא בר בבאר שבע השייך לקבוצת הפורום. במקום תפריט עשיר של אלכוהול ומוזיקה מקפיצה</string>
+	</dict>
+	<key>Bar8</key>
+	<dict>
+		<key>Name</key>
+		<string>גרייס</string>
+		<key>Address</key>
+		<string>ביאליק 26 ,באר שבע</string>
+		<key>Loaction</key>
+		<string>Haim Nahman Bialik 26, Be&apos;er Sheva, Israel</string>
+		<key>Phone</key>
+		<string>054-4528655</string>
+		<key>Discription</key>
+		<string>בר באר שבעי המציע בר גדול בו תיהנו ממוזיקת רוק ותפריט אלכוהול עשיר</string>
+	</dict>
+</dict>
+</plist>

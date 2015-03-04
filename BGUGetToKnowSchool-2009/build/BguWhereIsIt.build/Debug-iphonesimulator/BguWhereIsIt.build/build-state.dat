@@ -1,0 +1,1427 @@
+TBguWhereIsIt
+v7
+r0
+t337947611.945125
+cCheck dependencies
+cProcessInfoPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Info.plist BguWhereIsIt-Info.plist
+cCompileXIB /Users/David/Documents/BguWhereIsIt/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/Icon.png Icon.png
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarList.plist BarList.plist
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarDetailsList.plist BarDetailsList.plist
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterList.plist PrinterList.plist
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/simpson.png simpson.png
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherDetailsList.plist WasherDetailsList.plist
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherList.plist WasherList.plist
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/washer.png washer.png
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/super.png super.png
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperDetailsList.plist SuperDetailsList.plist
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperList.plist SuperList.plist
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib
+cCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/map.png map.png
+cCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/CopierList.plist CopierList.plist
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/beermug.png beermug.png
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/shoppingcart.png shoppingcart.png
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/tshirt.png ../../Downloads/glyphish-icons/icons/tshirt.png
+cCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/cabinet.png cabinet.png
+cProcessPCH /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch.gch BguWhereIsIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/main.o /Users/David/Documents/BguWhereIsIt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsItAppDelegate.o /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/LocalizedCurrentLocation.o /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/MapImageView.o /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/PrinterListView.o /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FourthNavigationScrollViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt normal i386
+cGenerateDSYMFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt
+cTouch /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004D54CECB000000000023EB70
+t1297403595
+s2354032
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/David/Documents/BguWhereIsIt/../../Downloads/glyphish-icons/icons/tshirt.png
+c000000004CB828480000000000000BA8
+t1287137352
+s2984
+
+N/Users/David/Documents/BguWhereIsIt/33-bottles.jpg
+c000000004E3FC3C80000000000027134
+t1312801736
+s160052
+
+N/Users/David/Documents/BguWhereIsIt/BarDetailsList.plist
+c000000004E426CFA00000000000014CB
+t1312976122
+s5323
+
+N/Users/David/Documents/BguWhereIsIt/BarList.plist
+c000000004E426B1300000000000001A8
+t1312975635
+s424
+
+N/Users/David/Documents/BguWhereIsIt/BguWhereIsIt_Prefix.pch
+c000000004E3E76BC00000000000000C1
+t1312716476
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.h
+c000000004E42732C00000000000003B3
+t1312977708
+s947
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m
+c000000004E6786A40000000000000D13
+t1315407524
+s3347
+i"BguWhereIsItAppDelegate.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ContentPageViewController.h
+c000000004E3E7A0F00000000000000FF
+t1312717327
+s255
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ContentPageViewController.m
+c000000004E3E7A0F00000000000005CA
+t1312717327
+s1482
+i"ContentPageViewController.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ContentPageViewController.xib
+c000000004E3E7CAB00000000000040DD
+t1312717995
+s16605
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.h
+c000000004E3E835900000000000003D7
+t1312719705
+s983
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m
+c000000004E578E330000000000000A09
+t1314360883
+s2569
+i"FirstViewContentPageViewController.h"
+i"LocalizedCurrentLocation.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib
+c000000004E426E42000000000000B2CF
+t1312976450
+s45775
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.h
+c000000004E3FCF8200000000000000F9
+t1312804738
+s249
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m
+c000000004E3E76BB00000000000005BC
+t1312716475
+s1468
+i"FirstViewController.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.h
+c000000004E3FD47C0000000000000386
+t1312806012
+s902
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m
+c000000004E42703600000000000017E8
+t1312976950
+s6120
+i"FirstViewNavigationTableViewController.h"
+i"FirstViewContentPageViewController.h"
+i"BguWhereIsItAppDelegate.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib
+c000000004E3FD4670000000000005363
+t1312805991
+s21347
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.h
+c000000004E438DB60000000000000237
+t1313050038
+s567
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m
+c000000004E43983D0000000000000E29
+t1313052733
+s3625
+i"FourthNavigationScrollViewController.h"
+i"MapImageView.h"
+i"PrinterListView.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib
+c000000004E4397760000000000005DB9
+t1313052534
+s23993
+
+N/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.h
+c000000004DC020E60000000000000095
+t1304436966
+s149
+i<Foundation/Foundation.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m
+c000000004DC020F00000000000000D6E
+t1304436976
+s3438
+i"LocalizedCurrentLocation.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.h
+c000000004E3D16C00000000000000259
+t1312626368
+s601
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m
+c000000004E3D48C10000000000000AC3
+t1312639169
+s2755
+i"MapImageView.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib
+c000000004E3D19080000000000004FA6
+t1312626952
+s20390
+
+N/Users/David/Documents/BguWhereIsIt/Classes/PrinterList.plist
+c000000004E3D48FB0000000000000234
+t1312639227
+s564
+
+N/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.h
+c000000004E439E060000000000000298
+t1313054214
+s664
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m
+c000000004E43A7CD0000000000000F04
+t1313056717
+s3844
+i"PrinterListView.h"
+i"BguWhereIsItAppDelegate.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib
+c000000004E3D5F200000000000005F54
+t1312644896
+s24404
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.h
+c000000004E4138B6000000000000037A
+t1312897206
+s890
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m
+c000000004E578E7B00000000000009FA
+t1314360955
+s2554
+i"SecondViewContentPageViewController.h"
+i"LocalizedCurrentLocation.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib
+c000000004E425BCE000000000000A16F
+t1312971726
+s41327
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.h
+c000000004E40E949000000000000039A
+t1312876873
+s922
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m
+c000000004E42578400000000000017F4
+t1312970628
+s6132
+i"SecondViewNavigationTableViewController.h"
+i"SecondViewContentPageViewController.h"
+i"BguWhereIsItAppDelegate.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib
+c000000004E41374000000000000051A7
+t1312896832
+s20903
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.h
+c000000004E4278750000000000000375
+t1312979061
+s885
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m
+c000000004E578E8E00000000000009F3
+t1314360974
+s2547
+i"ThirdViewContentPageViewController.h"
+i"LocalizedCurrentLocation.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib
+c000000004E58D1C4000000000000A124
+t1314443716
+s41252
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.h
+c000000004E4278B2000000000000038E
+t1312979122
+s910
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m
+c000000004E437BA400000000000017E6
+t1313045412
+s6118
+i"ThirdViewNavigationTableViewController.h"
+i"ThirdViewContentPageViewController.h"
+i"BguWhereIsItAppDelegate.h"
+
+N/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib
+c000000004E42785300000000000051A0
+t1312979027
+s20896
+
+N/Users/David/Documents/BguWhereIsIt/CopierList.plist
+c000000004E67861200000000000001B0
+t1315407378
+s432
+
+N/Users/David/Documents/BguWhereIsIt/Default.png
+c000000004E3E73DB000000000001B9BC
+t1312715739
+s113084
+
+N/Users/David/Documents/BguWhereIsIt/FirstView.xib
+c000000004E3E76BC00000000000049D6
+t1312716476
+s18902
+
+N/Users/David/Documents/BguWhereIsIt/Icon.png
+c000000004E3E758D000000000000ECA9
+t1312716173
+s60585
+
+N/Users/David/Documents/BguWhereIsIt/MainWindow.xib
+c000000004E57A0FD000000000000C91D
+t1314365693
+s51485
+
+N/Users/David/Documents/BguWhereIsIt/PrinterList.plist
+c000000004E67868B0000000000000368
+t1315407499
+s872
+
+N/Users/David/Documents/BguWhereIsIt/SecondView.xib
+c000000004E3E76BC00000000000049D4
+t1312716476
+s18900
+
+N/Users/David/Documents/BguWhereIsIt/SuperDetailsList.plist
+c000000004E437B680000000000000FBD
+t1313045352
+s4029
+
+N/Users/David/Documents/BguWhereIsIt/SuperList.plist
+c000000004E43776300000000000002DA
+t1313044323
+s730
+
+N/Users/David/Documents/BguWhereIsIt/WasherDetailsList.plist
+c000000004E4257720000000000000812
+t1312970610
+s2066
+
+N/Users/David/Documents/BguWhereIsIt/WasherList.plist
+c000000004E40EDF400000000000001DD
+t1312878068
+s477
+
+N/Users/David/Documents/BguWhereIsIt/beermug.png
+c000000004CB828500000000000000C0F
+t1287137360
+s3087
+
+N/Users/David/Documents/BguWhereIsIt/bottles.jpg
+c000000004E3FC3C80000000000027134
+t1312801736
+s160052
+
+N/Users/David/Documents/BguWhereIsIt/bottles.png
+c000000004E3FDED40000000000042EA7
+t1312808660
+s274087
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsIt.LinkFileList
+c000000004E438D120000000000000728
+t1313049874
+s1832
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsItAppDelegate.o
+t1316254767
+s59232
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ContentPageViewController.o
+t2
+s0
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewContentPageViewController.o
+t1314360884
+s56496
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewController.o
+t1312804739
+s39612
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewNavigationTableViewController.o
+t1312977708
+s71504
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FourthNavigationScrollViewController.o
+t1313054261
+s52632
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/LocalizedCurrentLocation.o
+t1312719249
+s14588
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/MapImageView.o
+t1313049875
+s48064
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/PrinterListView.o
+t1313056717
+s54580
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewContentPageViewController.o
+t1316254767
+s55296
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewNavigationTableViewController.o
+t1312977708
+s70732
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewContentPageViewController.o
+t1316254767
+s55212
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewNavigationTableViewController.o
+t1313045414
+s70612
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/main.o
+t1312716544
+s6304
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/BguWhereIsItAppDelegate.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FirstViewContentPageViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FirstViewNavigationTableViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FourthNavigationScrollViewController.plist
+t1313061670
+s25467
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/LocalizedCurrentLocation.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/MapImageView.plist
+t1313061670
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/PrinterListView.plist
+t1313061670
+s8394
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/SecondViewContentPageViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/SecondViewNavigationTableViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/ThirdViewContentPageViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/ThirdViewNavigationTableViewController.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/main.plist
+t1313061669
+s276
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app
+t1316254769
+s1258
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM
+t1316254769
+s102
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/33-bottles.jpg
+t2
+s0
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarDetailsList.plist
+t1312976200
+s3819
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarList.plist
+t1312975636
+s148
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt
+t1316254768
+s99892
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/ContentPageViewController.nib
+t2
+s0
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/CopierList.plist
+t1316254765
+s253
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Default.png
+t1312716543
+s113084
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstView.nib
+t1312716543
+s2923
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstViewContentPageViewController.nib
+t1312976951
+s5803
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstViewNavigationTableViewController.nib
+t1312805998
+s1874
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FourthNavigationScrollViewController.nib
+t1313052665
+s2152
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Icon.png
+t1312716543
+s60585
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Info.plist
+t1314359990
+s611
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/MainWindow.nib
+t1316254765
+s5465
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/MapImageView.nib
+t1313049875
+s1669
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PkgInfo
+t1314359990
+s8
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterList.plist
+t1316254754
+s675
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterListView.nib
+t1313049874
+s1980
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondView.nib
+t1312716543
+s2920
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondViewContentPageViewController.nib
+t1312971728
+s5196
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondViewNavigationTableViewController.nib
+t1312896903
+s1875
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperDetailsList.plist
+t1313045363
+s1951
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperList.plist
+t1313045363
+s409
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/ThirdViewContentPageViewController.nib
+t1316254765
+s5190
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/ThirdViewNavigationTableViewController.nib
+t1312979103
+s1874
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherDetailsList.plist
+t1312970632
+s1018
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherList.plist
+t1312878227
+s246
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/beermug.png
+t1316254765
+s3087
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/bottles.jpg
+t1312801860
+s160052
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/bottles.png
+t1312808706
+s274087
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/cabinet.png
+t1316254765
+s2871
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/firstPageContactData.plist
+t2
+s0
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/firstPageData.plist
+t2
+s0
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/map.png
+t1313052665
+s215943
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/shoppingcart.png
+t1316254765
+s2963
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/simpson.png
+t1312809321
+s87370
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/super.png
+t1312979103
+s94105
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/tshirt.png
+t1316254765
+s2984
+
+N/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/washer.png
+t1312898680
+s100190
+
+N/Users/David/Documents/BguWhereIsIt/cabinet.png
+c000000004CB8283E0000000000000B37
+t1287137342
+s2871
+
+N/Users/David/Documents/BguWhereIsIt/firstPageContactData.plist
+c000000004DF72BF8000000000000083D
+t1308044280
+s2109
+
+N/Users/David/Documents/BguWhereIsIt/firstPageData.plist
+c000000004DF5CADA0000000000000206
+t1307953882
+s518
+
+N/Users/David/Documents/BguWhereIsIt/main.m
+c000000004E3E76BC000000000000016E
+t1312716476
+s366
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/BguWhereIsIt/map.png
+c000000004E33ED3C0000000000034B87
+t1312025916
+s215943
+
+N/Users/David/Documents/BguWhereIsIt/shoppingcart.png
+c000000004CB8284C0000000000000B93
+t1287137356
+s2963
+
+N/Users/David/Documents/BguWhereIsIt/simpson.png
+c000000004E3FE150000000000001554A
+t1312809296
+s87370
+
+N/Users/David/Documents/BguWhereIsIt/super.png
+c000000004E4277EF0000000000016F99
+t1312978927
+s94105
+
+N/Users/David/Documents/BguWhereIsIt/washer.png
+c000000004E413E21000000000001875E
+t1312898593
+s100190
+
+N/var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch.gch
+t1312716544
+s15814064
+
+N/var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch.pth
+t1313061669
+s3352964
+
+NBguWhereIsIt-Info.plist
+c000000004E3E76BC000000000000038D
+t1312716476
+s909
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m
+s334754469.549452
+e334754469.724055
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m
+lSLF07#2@77"Analyze /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m334754469#334754469#0(0"0(0#0#69"/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m4479835792#2032"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/BguWhereIsItAppDelegate.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m
+s334754469.725108
+e334754469.770093
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m
+lSLF07#2@88"Analyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m334754469#334754469#0(0"0(0#0#80"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m4479835792#2054"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FirstViewContentPageViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m
+s334754469.724127
+e334754469.791354
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m
+lSLF07#2@92"Analyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m334754469#334754469#0(0"0(0#0#84"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m4479835792#2062"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FirstViewNavigationTableViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m
+s334754470.020442
+e334754470.113787
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m
+o/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m:42:23: warning: Potential leak of an object allocated on line 42 and stored into 'temp'
+o                         MapImageView *temp=[[MapImageView alloc] init];
+o                                            ^
+o/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m:48:26: warning: Potential leak of an object allocated on line 48 and stored into 'temp'
+o                         PrinterListView *temp=[[PrinterListView alloc] init];
+o                                               ^
+o2 warnings generated.
+lSLF07#2@90"Analyze /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334754470#334754470#0(611"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m:42:23: warning: Potential leak of an object allocated on line 42 and stored into 'temp'                         MapImageView *temp=[[MapImageView alloc] init];                                            ^/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m:48:26: warning: Potential leak of an object allocated on line 48 and stored into 'temp'                         PrinterListView *temp=[[PrinterListView alloc] init];                                               ^2 warnings generated.2(0@71"Potential leak of an object allocated on line 42 and stored into 'temp'334754470#18446744073709551615#0#16(17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#31#5#31#5#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#2#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#2#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#46#8#46#8#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#46#8#46#8#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#4#48#4#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#4#48#4#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#58#2#58#2#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#58#2#58#2#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#4#21@36"Looping back to the head of the loop334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#0#0#0"1(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#4#36"Looping back to the head of the loop17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#4#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#4#42#4#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#4#42#4#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#23#42#49#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#23#0#0#0"1(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#23#42#49#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#42#23#42#49#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#21@142"Object allocated on line 42 and stored into 'temp' is not referenced later in this execution path and has a retain count of +1 (object leaked)334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#0#0#0"1(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#142"Object allocated on line 42 and stored into 'temp' is not referenced later in this execution path and has a retain count of +1 (object leaked)6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@71"Potential leak of an object allocated on line 48 and stored into 'temp'334754470#18446744073709551615#0#9(17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#31#5#31#5#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#2#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#34#2#34#2#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#35#3#35#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#41#3#41#3#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#46#8#46#8#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#46#8#46#8#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#4#48#4#17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#4#48#4#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#26#48#55#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#26#0#0#0"1(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#26#48#55#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#0"0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#0#0#0#0#1(3@6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#48#26#48#55#6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#21@142"Object allocated on line 48 and stored into 'temp' is not referenced later in this execution path and has a retain count of +1 (object leaked)334754470#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#0#0#0"1(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#56#3#142"Object allocated on line 48 and stored into 'temp' is not referenced later in this execution path and has a retain count of +1 (object leaked)6@82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334745533#56#3#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m4479835792#2058"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/FourthNavigationScrollViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m
+s334754469.770177
+e334754469.822626
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m
+lSLF07#2@78"Analyze /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m334754469#334754469#0(0"0(0#0#70"/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m4479835792#2034"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/LocalizedCurrentLocation.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m
+s334754469.897899
+e334754470.020357
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m
+lSLF07#2@66"Analyze /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m334754469#334754470#0(0"0(0#0#58"/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m4479835792#2010"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/MapImageView.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m
+s334754469.942563
+e334754470.098676
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m
+o/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m:101:2:{101:28-101:36}: warning: Argument in message expression is an uninitialized value
+o         [[cell textLabel] setText:cellText];
+o         ^                         ~~~~~~~~
+o1 warning generated.
+lSLF07#2@69"Analyze /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334754469#334754470#0(262"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m:101:2:{101:28-101:36}: warning: Argument in message expression is an uninitialized value         [[cell textLabel] setText:cellText];         ^                         ~~~~~~~~1 warning generated.1(0@56"Argument in message expression is an uninitialized value334754470#18446744073709551615#0#8(17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#83#5#83#5#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#86#5#86#5#17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#86#5#86#5#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#91#2#91#2#17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#91#2#91#2#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#92#2#92#19#21@53"Variable 'cellText' declared without an initial value334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#92#2#0#0#0"1(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#92#2#92#19#53"Variable 'cellText' declared without an initial value17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#92#2#92#19#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#93#2#93#2#17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#93#2#93#2#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#97#2#97#2#17@0"334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#0"0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#0#0#0#0#1(3@6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#97#2#97#2#6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#101#2#101#36#21@56"Argument in message expression is an uninitialized value334754470#18446744073709551615#0#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#101#2#0#0#0"1(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#101#28#101#35#56"Argument in message expression is an uninitialized value6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#101#2#0#0#11"Logic error0(56"Argument in message expression is an uninitialized value0#0#61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m4479835792#2016"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/PrinterListView.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m
+s334754469.822736
+e334754469.882873
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m
+lSLF07#2@89"Analyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m334754469#334754469#0(0"0(0#0#81"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m4479835792#2056"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/SecondViewContentPageViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m
+s334754469.791443
+e334754469.843761
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m
+lSLF07#2@93"Analyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m334754469#334754469#0(0"0(0#0#85"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m4479835792#2064"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/SecondViewNavigationTableViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m
+s334754469.882963
+e334754469.942475
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m
+lSLF07#2@88"Analyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m334754469#334754469#0(0"0(0#0#80"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m4479835792#2054"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/ThirdViewContentPageViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m
+s334754469.843850
+e334754469.897811
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m
+lSLF07#2@92"Analyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m334754469#334754469#0(0"0(0#0#84"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m4479835792#2062"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/ThirdViewNavigationTableViewController.plist0#
+
+CAnalyze /Users/David/Documents/BguWhereIsIt/main.m
+s334754469.548366
+e334754469.723700
+r1
+xAnalyze
+x/Users/David/Documents/BguWhereIsIt/main.m
+lSLF07#2@50"Analyze /Users/David/Documents/BguWhereIsIt/main.m334754469#334754469#0(0"0(0#0#42"/Users/David/Documents/BguWhereIsIt/main.m4479835792#1986"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch --analyze /Users/David/Documents/BguWhereIsIt/main.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337947611#337947611#0(0"0(0#1#0"17205473280#0"0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsItAppDelegate.o /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337947566.040152
+e337947567.857051
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsItAppDelegate.o
+x/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m337947566#337947567#0(0"0(0#0#69"/Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m4495769232#2023"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/BguWhereIsItAppDelegate.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsItAppDelegate.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/ContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336053683.983145
+e336053684.115912
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewContentPageViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m336053683#336053684#0(0"0(0#0#80"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m4537896592#2045"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewContentPageViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334497539.509496
+e334497539.577890
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m334497539#334497539#0(0"0(0#0#65"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m4477013648#2015"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/FirstViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334670508.763772
+e334670508.930794
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewNavigationTableViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m334670508#334670508#0(0"0(0#0#84"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m4442918544#2053"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FirstViewNavigationTableViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FourthNavigationScrollViewController.o /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334747061.139591
+e334747061.231630
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FourthNavigationScrollViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m334747061#334747061#0(0"0(0#0#82"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m4493430416#2049"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/FourthNavigationScrollViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/LocalizedCurrentLocation.o /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334412048.967520
+e334412049.058490
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/LocalizedCurrentLocation.o
+x/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m334412048#334412049#0(0"0(0#0#70"/Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m4474949264#2025"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/LocalizedCurrentLocation.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/LocalizedCurrentLocation.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/MapImageView.o /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334742675.248258
+e334742675.372794
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/MapImageView.o
+x/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m334742675#334742675#0(0"0(0#0#58"/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m4490550928#2001"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/MapImageView.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/PrinterListView.o /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334749517.785302
+e334749517.864999
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/PrinterListView.o
+x/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m: In function '-[PrinterListView tableView:cellForRowAtIndexPath:]':
+o/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m:85: warning: local declaration of 'tableView' hides instance variable
+lSLF07#2@69"Compile /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#334749517#0(262"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m: In function '-[PrinterListView tableView:cellForRowAtIndexPath:]':/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m:85: warning: local declaration of 'tableView' hides instance variable1(22@56"Local declaration of 'tableView' hides instance variable334749517#130#132#0(6@61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m334749517#85#0#85#0#0"0(0#0#61"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m17208392448#2007"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/PrinterListView.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337947566.041461
+e337947567.723186
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewContentPageViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m337947566#337947567#0(0"0(0#0#81"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m4495769232#2047"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewContentPageViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334670508.869309
+e334670508.999214
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewNavigationTableViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m334670508#334670508#0(0"0(0#0#85"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m4442918544#2055"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/SecondViewNavigationTableViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewContentPageViewController.o /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337947567.723416
+e337947567.858444
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewContentPageViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m337947567#337947567#0(0"0(0#0#80"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m4495769232#2045"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewContentPageViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewNavigationTableViewController.o /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334738212.901065
+e334738214.622476
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewNavigationTableViewController.o
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m334738212#334738214#0(0"0(0#0#84"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m4359802512#2053"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/ThirdViewNavigationTableViewController.o0#
+
+CCompileC build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/main.o /Users/David/Documents/BguWhereIsIt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334409344.528635
+e334409344.624401
+r1
+xCompileC
+xbuild/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/main.o
+x/Users/David/Documents/BguWhereIsIt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/David/Documents/BguWhereIsIt/main.m334409344#334409344#0(0"0(0#0#42"/Users/David/Documents/BguWhereIsIt/main.m4473339536#1977"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -include /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch -c /Users/David/Documents/BguWhereIsIt/main.m -o /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/ContentPageViewController.xib
+r0
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib
+s334669750.714690
+e334669751.863011
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib:8: note: This view is clipping its content.
+lSLF07#2@57"CompileXIB Classes/FirstViewContentPageViewController.xib334669750#334669751#0(167"/* com.apple.ibtool.document.notices *//Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib:8: note: This view is clipping its content.1(13@34"This view is clipping its content.334669751#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib334669250#8#0#8#0#0"0(0#0#82"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib4437335696#622"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstViewContentPageViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/FirstViewContentPageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib
+s334498798.362398
+e334498798.772582
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib
+lSLF07#2@61"CompileXIB Classes/FirstViewNavigationTableViewController.xib334498798#334498798#0(0"0(0#0#86"/Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib4489821840#630"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstViewNavigationTableViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/FirstViewNavigationTableViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib
+s334745464.984743
+e334745465.423583
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib
+lSLF07#2@59"CompileXIB Classes/FourthNavigationScrollViewController.xib334745464#334745465#0(0"0(0#0#84"/Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib4493430416#626"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FourthNavigationScrollViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/FourthNavigationScrollViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib
+s334742674.643520
+e334742675.052782
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib
+lSLF07#2@35"CompileXIB Classes/MapImageView.xib334742674#334742675#0(0"0(0#0#60"/Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib4490550928#578"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/MapImageView.nib /Users/David/Documents/BguWhereIsIt/Classes/MapImageView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib
+s334742674.175267
+e334742674.643403
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib
+lSLF07#2@38"CompileXIB Classes/PrinterListView.xib334742674#334742674#0(0"0(0#0#63"/Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib4490550928#584"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterListView.nib /Users/David/Documents/BguWhereIsIt/Classes/PrinterListView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib
+s334664527.936801
+e334664528.444808
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib:8: note: This view is clipping its content.
+o/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib:7: note: This view is clipping its content.
+lSLF07#2@58"CompileXIB Classes/SecondViewContentPageViewController.xib334664527#334664528#0(296"/* com.apple.ibtool.document.notices *//Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib:8: note: This view is clipping its content./Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib:7: note: This view is clipping its content.2(13@34"This view is clipping its content.334664528#18446744073709551615#0#0(6@83"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib334664526#8#0#8#0#0"0(13@34"This view is clipping its content.334664528#18446744073709551615#0#0(6@83"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib334664526#7#0#7#0#0"0(0#0#83"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib4440194704#624"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondViewContentPageViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/SecondViewContentPageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib
+s334589703.120729
+e334589703.578294
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib
+lSLF07#2@62"CompileXIB Classes/SecondViewNavigationTableViewController.xib334589703#334589703#0(0"0(0#0#87"/Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib4481277584#632"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondViewNavigationTableViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/SecondViewNavigationTableViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib
+s337947554.845060
+e337947566.039803
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.notices */
+o/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib:14: note: This view is clipping its content.
+o/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib:13: note: This view is clipping its content.
+lSLF07#2@57"CompileXIB Classes/ThirdViewContentPageViewController.xib337947554#337947566#0(3488"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.notices *//Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib:14: note: This view is clipping its content./Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib:13: note: This view is clipping its content.2(13@34"This view is clipping its content.337947566#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib336136516#14#0#14#0#0"0(13@34"This view is clipping its content.337947566#18446744073709551615#0#0(6@82"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib336136516#13#0#13#0#0"0(0#0#82"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib4495769232#622"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/ThirdViewContentPageViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewContentPageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib
+s334671903.336852
+e334671903.872825
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib
+lSLF07#2@61"CompileXIB Classes/ThirdViewNavigationTableViewController.xib334671903#334671903#0(0"0(0#0#86"/Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib4389875344#630"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/ThirdViewNavigationTableViewController.nib /Users/David/Documents/BguWhereIsIt/Classes/ThirdViewNavigationTableViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/FirstView.xib
+s334409343.240790
+e334409343.697054
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib334409343#334409343#0(0"0(0#0#49"/Users/David/Documents/BguWhereIsIt/FirstView.xib4473339536#564"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/FirstView.nib /Users/David/Documents/BguWhereIsIt/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/MainWindow.xib
+s337947554.141788
+e337947565.174030
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/MainWindow.xib
+o2011-09-17 13:19:16.147 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-17 13:19:16.149 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-17 13:19:16.150 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+o2011-09-17 13:19:16.150 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib337947554#337947565#0(820"2011-09-17 13:19:16.147 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-17 13:19:16.149 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-17 13:19:16.150 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  2011-09-17 13:19:16.150 ibtool[2651:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/David/Documents/BguWhereIsIt/MainWindow.xib17206038528#566"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/MainWindow.nib /Users/David/Documents/BguWhereIsIt/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/David/Documents/BguWhereIsIt/SecondView.xib
+s334409342.793557
+e334409343.305427
+r1
+xCompileXIB
+x/Users/David/Documents/BguWhereIsIt/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib334409342#334409343#0(0"0(0#0#50"/Users/David/Documents/BguWhereIsIt/SecondView.xib4473339536#566"    cd /Users/David/Documents/BguWhereIsIt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SecondView.nib /Users/David/Documents/BguWhereIsIt/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarDetailsList.plist BarDetailsList.plist
+s334669000.499141
+e334669000.624475
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarDetailsList.plist
+xBarDetailsList.plist
+lSLF07#2@25"Copy BarDetailsList.plist334669000#334669000#0(0"0(0#0#56"/Users/David/Documents/BguWhereIsIt/BarDetailsList.plist4437335696#394"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 BarDetailsList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarList.plist BarList.plist
+s334668436.577590
+e334668436.626612
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BarList.plist
+xBarList.plist
+lSLF07#2@18"Copy BarList.plist334668436#334668436#0(0"0(0#0#49"/Users/David/Documents/BguWhereIsIt/BarList.plist4434116240#387"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 BarList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/CopierList.plist CopierList.plist
+s337947565.174652
+e337947565.228422
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/CopierList.plist
+xCopierList.plist
+lSLF07#2@21"Copy CopierList.plist337947565#337947565#0(0"0(0#0#52"/Users/David/Documents/BguWhereIsIt/CopierList.plist4495769232#390"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 CopierList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterList.plist Classes/PrinterList.plist
+r0
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterList.plist PrinterList.plist
+s337947554.216928
+e337947554.844173
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PrinterList.plist
+xPrinterList.plist
+lSLF07#2@22"Copy PrinterList.plist337947554#337947554#0(0"0(0#0#53"/Users/David/Documents/BguWhereIsIt/PrinterList.plist4495769232#391"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PrinterList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperDetailsList.plist SuperDetailsList.plist
+s334738163.412985
+e334738163.685811
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperDetailsList.plist
+xSuperDetailsList.plist
+lSLF07#2@27"Copy SuperDetailsList.plist334738163#334738163#0(0"0(0#0#58"/Users/David/Documents/BguWhereIsIt/SuperDetailsList.plist17204492544#396"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 SuperDetailsList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperList.plist SuperList.plist
+s334738163.449009
+e334738163.685604
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/SuperList.plist
+xSuperList.plist
+lSLF07#2@20"Copy SuperList.plist334738163#334738163#0(0"0(0#0#51"/Users/David/Documents/BguWhereIsIt/SuperList.plist4486332048#389"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 SuperList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherDetailsList.plist WasherDetailsList.plist
+s334663431.736365
+e334663432.030849
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherDetailsList.plist
+xWasherDetailsList.plist
+lSLF07#2@28"Copy WasherDetailsList.plist334663431#334663432#0(0"0(0#0#59"/Users/David/Documents/BguWhereIsIt/WasherDetailsList.plist17208619008#397"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 WasherDetailsList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherList.plist WasherList.plist
+s334571027.036782
+e334571027.216235
+r1
+xCopyPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/WasherList.plist
+xWasherList.plist
+lSLF07#2@21"Copy WasherList.plist334571027#334571027#0(0"0(0#0#52"/Users/David/Documents/BguWhereIsIt/WasherList.plist4494720656#390"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 WasherList.plist --outdir /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/firstPageContactData.plist firstPageContactData.plist
+r0
+
+CCopyPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/firstPageData.plist firstPageData.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/33-bottles.jpg 33-bottles.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/Default.png Default.png
+s334409343.305512
+e334409343.344711
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png334409343#334409343#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/Default.png4473339536#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/Default.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/Icon.png Icon.png
+s334409343.307423
+e334409343.342201
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png334409343#334409343#0(0"0(0#0#44"/Users/David/Documents/BguWhereIsIt/Icon.png4473339536#462"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/Icon.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/beermug.png beermug.png
+s337947565.228661
+e337947565.314990
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/beermug.png
+xbeermug.png
+lSLF07#2@16"Copy beermug.png337947565#337947565#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/beermug.png4495769232#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/beermug.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/bottles.jpg bottles.jpg
+s334494660.424230
+e334494660.435761
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/bottles.jpg
+xbottles.jpg
+lSLF07#2@16"Copy bottles.jpg334494660#334494660#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/bottles.jpg4411211408#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/bottles.jpg /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/bottles.png bottles.png
+s334501506.605345
+e334501506.616768
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/bottles.png
+xbottles.png
+lSLF07#2@16"Copy bottles.png334501506#334501506#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/bottles.png4388286096#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/bottles.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/cabinet.png cabinet.png
+s337947565.230813
+e337947565.326853
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/cabinet.png
+xcabinet.png
+lSLF07#2@16"Copy cabinet.png337947565#337947565#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/cabinet.png4495769232#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/cabinet.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/map.png map.png
+s334745465.423677
+e334745465.454211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/map.png
+xmap.png
+lSLF07#2@12"Copy map.png334745465#334745465#0(0"0(0#0#43"/Users/David/Documents/BguWhereIsIt/map.png4493430416#461"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/map.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/shoppingcart.png shoppingcart.png
+s337947565.229516
+e337947565.302503
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/shoppingcart.png
+xshoppingcart.png
+lSLF07#2@21"Copy shoppingcart.png337947565#337947565#0(0"0(0#0#52"/Users/David/Documents/BguWhereIsIt/shoppingcart.png4495769232#470"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/shoppingcart.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/simpson.png simpson.png
+s334502121.297043
+e334502121.315085
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/simpson.png
+xsimpson.png
+lSLF07#2@16"Copy simpson.png334502121#334502121#0(0"0(0#0#47"/Users/David/Documents/BguWhereIsIt/simpson.png4388286096#465"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/simpson.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/super.png super.png
+s334671903.338962
+e334671903.383909
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/super.png
+xsuper.png
+lSLF07#2@14"Copy super.png334671903#334671903#0(0"0(0#0#45"/Users/David/Documents/BguWhereIsIt/super.png4389875344#463"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/super.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/tshirt.png ../../Downloads/glyphish-icons/icons/tshirt.png
+s337947565.230141
+e337947565.318558
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/tshirt.png
+x../../Downloads/glyphish-icons/icons/tshirt.png
+lSLF07#2@52"Copy ../../Downloads/glyphish-icons/icons/tshirt.png337947565#337947565#0(0"0(0#0#83"/Users/David/Documents/BguWhereIsIt/../../Downloads/glyphish-icons/icons/tshirt.png4495769232#501"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/../../Downloads/glyphish-icons/icons/tshirt.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CCpResource build/Debug-iphonesimulator/BguWhereIsIt.app/washer.png washer.png
+s334591480.220266
+e334591480.235012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BguWhereIsIt.app/washer.png
+xwasher.png
+lSLF07#2@15"Copy washer.png334591480#334591480#0(0"0(0#0#46"/Users/David/Documents/BguWhereIsIt/washer.png4487171728#464"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/David/Documents/BguWhereIsIt/washer.png /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+
+CGenerateDSYMFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt
+s337947568.940444
+e337947569.061355
+r1
+xGenerateDSYMFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt337947568#337947569#0(0"0(0#0#93"/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt4495769232#389"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt -o /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app.dSYM0#
+
+CLd /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt normal i386
+s337947567.858529
+e337947568.940336
+r1
+xLd
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt
+xnormal
+xi386
+lSLF07#2@98"Link /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt337947567#337947568#0(0"0(0#0#0"4495769232#910"    cd /Users/David/Documents/BguWhereIsIt    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -filelist /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/Objects-normal/i386/BguWhereIsIt.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/BguWhereIsIt0#
+
+CProcessInfoPlistFile /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Info.plist BguWhereIsIt-Info.plist
+s336052790.830763
+e336052790.850032
+r1
+xProcessInfoPlistFile
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Info.plist
+xBguWhereIsIt-Info.plist
+lSLF07#2@31"Process BguWhereIsIt-Info.plist336052790#336052790#0(0"0(0#0#59"/Users/David/Documents/BguWhereIsIt/BguWhereIsIt-Info.plist4522159872#485"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BguWhereIsIt-Info.plist -genpkginfo /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app/Info.plist0#
+
+CProcessPCH /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch.gch BguWhereIsIt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334409343.697184
+e334409344.528506
+r1
+xProcessPCH
+x/var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch.gch
+xBguWhereIsIt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile BguWhereIsIt_Prefix.pch334409343#334409344#0(0"0(0#0#59"/Users/David/Documents/BguWhereIsIt/BguWhereIsIt_Prefix.pch4473339536#1867"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -c /Users/David/Documents/BguWhereIsIt/BguWhereIsIt_Prefix.pch -o /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-exatstbjjnvistexzymvsksztqpr/BguWhereIsIt_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch.pth BguWhereIsIt_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s334754468.947518
+e334754469.547228
+r1
+xProcessPCH
+x/var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch.pth
+xBguWhereIsIt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@34"Precompile BguWhereIsIt_Prefix.pch334754468#334754469#0(0"0(0#0#59"/Users/David/Documents/BguWhereIsIt/BguWhereIsIt_Prefix.pch4479835792#1858"    cd /Users/David/Documents/BguWhereIsIt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-generated-files.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-own-target-headers.hmap -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-all-target-headers.hmap -iquote /Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/BguWhereIsIt-project-headers.hmap -F/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator -I/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/include -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources/i386 -I/Users/David/Documents/BguWhereIsIt/build/BguWhereIsIt.build/Debug-iphonesimulator/BguWhereIsIt.build/DerivedSources -c /Users/David/Documents/BguWhereIsIt/BguWhereIsIt_Prefix.pch -o /var/folders/sg/nnt0dr_d681f7kwxnvjxsr700000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BguWhereIsIt_Prefix-hdbmzjooihaesdhfutwgaynyhtrq/BguWhereIsIt_Prefix.pch.pth0#
+
+CTouch /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app
+s337947569.061458
+e337947569.064582
+r1
+xTouch
+x/Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app
+lSLF07#2@86"Touch /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app337947569#337947569#0(0"0(0#0#0"4495769232#277"    cd /Users/David/Documents/BguWhereIsIt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/David/Documents/BguWhereIsIt/build/Debug-iphonesimulator/BguWhereIsIt.app0#
+

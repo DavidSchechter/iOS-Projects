@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Super1</key>
+	<dict>
+		<key>Name</key>
+		<string>איינשטיין מרסלו </string>
+		<key>Address</key>
+		<string>השלום 20 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech HaShalom 20, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6236392</string>
+	</dict>
+	<key>Super2</key>
+	<dict>
+		<key>Name</key>
+		<string>זוהר מרקט</string>
+		<key>Address</key>
+		<string>השלום 48 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech HaShalom 48, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6285893</string>
+	</dict>
+	<key>Super3</key>
+	<dict>
+		<key>Name</key>
+		<string>כל-זול בנימין</string>
+		<key>Address</key>
+		<string>רמח&quot;ל 10 שכונה ב&apos; באר שבע</string>
+		<key>Loaction</key>
+		<string>Ramhal 10, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6497510</string>
+	</dict>
+	<key>Super4</key>
+	<dict>
+		<key>Name</key>
+		<string>מיני מרקט וינגייט</string>
+		<key>Address</key>
+		<string>וינגייט 66 באר שבע</string>
+		<key>Loaction</key>
+		<string>Wingate 66, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6272033</string>
+	</dict>
+	<key>Super5</key>
+	<dict>
+		<key>Name</key>
+		<string>מיני מרקט סגל</string>
+		<key>Address</key>
+		<string>השלום 54 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech HaShalom 54, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6239597</string>
+	</dict>
+	<key>Super6</key>
+	<dict>
+		<key>Name</key>
+		<string>מינימרקט פליקס</string>
+		<key>Address</key>
+		<string>דרך מצדה 19 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech Metsada 19, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6495303</string>
+	</dict>
+	<key>Super7</key>
+	<dict>
+		<key>Name</key>
+		<string>מכולת ויבר</string>
+		<key>Address</key>
+		<string>השלום 52 באר שבע</string>
+		<key>Loaction</key>
+		<string>Derech HaShalom 52, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6233665</string>
+	</dict>
+	<key>Super8</key>
+	<dict>
+		<key>Name</key>
+		<string>מכולת סוגול</string>
+		<key>Address</key>
+		<string>שוק עירוני 103 באר שבע</string>
+		<key>Loaction</key>
+		<string>City Market, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6277278</string>
+	</dict>
+	<key>Super9</key>
+	<dict>
+		<key>Name</key>
+		<string>סאבו</string>
+		<key>Address</key>
+		<string>המלך שלמה 6 באר שבע</string>
+		<key>Loaction</key>
+		<string>Shlomo HaMelech 6, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6483806</string>
+	</dict>
+	<key>Super10</key>
+	<dict>
+		<key>Name</key>
+		<string>סופר לב </string>
+		<key>Address</key>
+		<string>בן יהודה 14 באר שבע</string>
+		<key>Loaction</key>
+		<string>Eliezer Ben-Yehuda 14, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6238969</string>
+	</dict>
+	<key>Super11</key>
+	<dict>
+		<key>Name</key>
+		<string>קסם הפרי והירק</string>
+		<key>Address</key>
+		<string>הורקנוס 1 באר שבע</string>
+		<key>Loaction</key>
+		<string>Yohanan Horkanos 1, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>086487865</string>
+	</dict>
+	<key>Super12</key>
+	<dict>
+		<key>Name</key>
+		<string>שופרסל שלי</string>
+		<key>Address</key>
+		<string>הר בוקר 1 באר שבע</string>
+		<key>Loaction</key>
+		<string>Har Boker 1, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6499004</string>
+	</dict>
+	<key>Super13</key>
+	<dict>
+		<key>Name</key>
+		<string>תמר את מישל בע&quot;מ</string>
+		<key>Address</key>
+		<string>מרכז גילת 54 באר שבע</string>
+		<key>Loaction</key>
+		<string>David HaMelech 2, Beersheba, Israel</string>
+		<key>Phone</key>
+		<string>08-6492311</string>
+	</dict>
+</dict>
+</plist>
