@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67546C63FC166F5359026194 /* Pods_AmbulanzDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BE30095EB5AC2E8D860C8EF /* Pods_AmbulanzDemo.framework */; };
 		F19E2E291D5021DE003DBD37 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19E2E281D5021DE003DBD37 /* AppDelegate.swift */; };
 		F19E2E2B1D5021DE003DBD37 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19E2E2A1D5021DE003DBD37 /* ViewController.swift */; };
 		F19E2E2E1D5021DE003DBD37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F19E2E2C1D5021DE003DBD37 /* Main.storyboard */; };
@@ -34,6 +35,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		030BAE981280A9E4A207701D /* Pods-AmbulanzDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmbulanzDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AmbulanzDemo/Pods-AmbulanzDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		1130AFC1DB77D5BA7A8BF49A /* Pods-AmbulanzDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmbulanzDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-AmbulanzDemo/Pods-AmbulanzDemo.release.xcconfig"; sourceTree = "<group>"; };
+		8BE30095EB5AC2E8D860C8EF /* Pods_AmbulanzDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AmbulanzDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F19E2E251D5021DE003DBD37 /* AmbulanzDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AmbulanzDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F19E2E281D5021DE003DBD37 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F19E2E2A1D5021DE003DBD37 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67546C63FC166F5359026194 /* Pods_AmbulanzDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +79,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		893D0BCE8F3ED15E9287307A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8BE30095EB5AC2E8D860C8EF /* Pods_AmbulanzDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8F56EF7197F7349FD0E3046E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				030BAE981280A9E4A207701D /* Pods-AmbulanzDemo.debug.xcconfig */,
+				1130AFC1DB77D5BA7A8BF49A /* Pods-AmbulanzDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		F19E2E1C1D5021DE003DBD37 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +103,8 @@
 				F19E2E3C1D5021DE003DBD37 /* AmbulanzDemoTests */,
 				F19E2E471D5021DF003DBD37 /* AmbulanzDemoUITests */,
 				F19E2E261D5021DE003DBD37 /* Products */,
+				8F56EF7197F7349FD0E3046E /* Pods */,
+				893D0BCE8F3ED15E9287307A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +156,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F19E2E4D1D5021DF003DBD37 /* Build configuration list for PBXNativeTarget "AmbulanzDemo" */;
 			buildPhases = (
+				4B87E2DF680DD0A491C0DA97 /* [CP] Check Pods Manifest.lock */,
 				F19E2E211D5021DE003DBD37 /* Sources */,
 				F19E2E221D5021DE003DBD37 /* Frameworks */,
 				F19E2E231D5021DE003DBD37 /* Resources */,
+				97AEBA7DB6150E8D9DE323B1 /* [CP] Embed Pods Frameworks */,
+				797333D2ED755D6492AB5DE3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -250,6 +277,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4B87E2DF680DD0A491C0DA97 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		797333D2ED755D6492AB5DE3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmbulanzDemo/Pods-AmbulanzDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		97AEBA7DB6150E8D9DE323B1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmbulanzDemo/Pods-AmbulanzDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F19E2E211D5021DE003DBD37 /* Sources */ = {
@@ -399,6 +474,7 @@
 		};
 		F19E2E4E1D5021DF003DBD37 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 030BAE981280A9E4A207701D /* Pods-AmbulanzDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AmbulanzDemo/Info.plist;
@@ -410,6 +486,7 @@
 		};
 		F19E2E4F1D5021DF003DBD37 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1130AFC1DB77D5BA7A8BF49A /* Pods-AmbulanzDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AmbulanzDemo/Info.plist;
@@ -484,6 +561,7 @@
 				F19E2E4F1D5021DF003DBD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F19E2E501D5021DF003DBD37 /* Build configuration list for PBXNativeTarget "AmbulanzDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +570,7 @@
 				F19E2E521D5021DF003DBD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F19E2E531D5021DF003DBD37 /* Build configuration list for PBXNativeTarget "AmbulanzDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +579,7 @@
 				F19E2E551D5021DF003DBD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

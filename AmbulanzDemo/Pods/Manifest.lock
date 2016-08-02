@@ -1,0 +1,23 @@
+PODS:
+  - GoogleMaps (2.0.1):
+    - GoogleMaps/Maps (= 2.0.1)
+  - GoogleMaps/Base (2.0.1)
+  - GoogleMaps/Maps (2.0.1):
+    - GoogleMaps/Base (= 2.0.1)
+  - GooglePlaces (2.0.1):
+    - GoogleMaps/Base (= 2.0.1)
+  - Socket.IO-Client-Swift (6.1.6)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - Socket.IO-Client-Swift
+
+SPEC CHECKSUMS:
+  GoogleMaps: f09da64fc987c1aa29394567c3cab5a3df83c402
+  GooglePlaces: 72fab1d1651c6df0322f2aad245ffb15b80d3c56
+  Socket.IO-Client-Swift: 5eddbfafd3c035a77d365d5b58da93cc488af11f
+
+PODFILE CHECKSUM: 31bfa0d512ba2eb63de0a828b059c56f538ce888
+
+COCOAPODS: 1.1.0.beta.1
