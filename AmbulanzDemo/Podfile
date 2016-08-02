@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+use_frameworks!
+
+target 'AmbulanzDemo' do
+# For latest release in cocoapods
+
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'Socket.IO-Client-Swift'
+
+end
