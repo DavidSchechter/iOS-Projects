@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F19E2E241D5021DE003DBD37"
+               BlueprintIdentifier = "F1D2C2B81D4FE306005B9F44"
                BuildableName = "AmbulanzDemo.app"
                BlueprintName = "AmbulanzDemo"
                ReferencedContainer = "container:AmbulanzDemo.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F19E2E381D5021DE003DBD37"
+               BlueprintIdentifier = "F1D2C2CC1D4FE306005B9F44"
                BuildableName = "AmbulanzDemoTests.xctest"
                BlueprintName = "AmbulanzDemoTests"
                ReferencedContainer = "container:AmbulanzDemo.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F19E2E431D5021DF003DBD37"
+               BlueprintIdentifier = "F1D2C2D71D4FE306005B9F44"
                BuildableName = "AmbulanzDemoUITests.xctest"
                BlueprintName = "AmbulanzDemoUITests"
                ReferencedContainer = "container:AmbulanzDemo.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F19E2E241D5021DE003DBD37"
+            BlueprintIdentifier = "F1D2C2B81D4FE306005B9F44"
             BuildableName = "AmbulanzDemo.app"
             BlueprintName = "AmbulanzDemo"
             ReferencedContainer = "container:AmbulanzDemo.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F19E2E241D5021DE003DBD37"
+            BlueprintIdentifier = "F1D2C2B81D4FE306005B9F44"
             BuildableName = "AmbulanzDemo.app"
             BlueprintName = "AmbulanzDemo"
             ReferencedContainer = "container:AmbulanzDemo.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F19E2E241D5021DE003DBD37"
+            BlueprintIdentifier = "F1D2C2B81D4FE306005B9F44"
             BuildableName = "AmbulanzDemo.app"
             BlueprintName = "AmbulanzDemo"
             ReferencedContainer = "container:AmbulanzDemo.xcodeproj">

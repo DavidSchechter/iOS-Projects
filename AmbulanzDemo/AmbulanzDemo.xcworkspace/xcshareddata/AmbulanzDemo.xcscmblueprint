@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "277C216318E570AE138B4F6901C03E87F1357071",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EAB2238B41D4CA6458590CB68C60F1460BE0B4DF" : 0,
+    "277C216318E570AE138B4F6901C03E87F1357071" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA01EF72-24CB-405E-903E-2D1C260A8E5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EAB2238B41D4CA6458590CB68C60F1460BE0B4DF" : "iOS-Projects\/AmbulanzDemo\/AmbulanzDemo\/",
+    "277C216318E570AE138B4F6901C03E87F1357071" : "iOS-Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AmbulanzDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AmbulanzDemo\/AmbulanzDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DavidSchechter\/iOS-Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "277C216318E570AE138B4F6901C03E87F1357071"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DavidSchechter\/AmbulanzDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAB2238B41D4CA6458590CB68C60F1460BE0B4DF"
+    }
+  ]
+}
